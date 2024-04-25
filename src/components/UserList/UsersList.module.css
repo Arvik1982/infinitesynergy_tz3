@@ -1,0 +1,7 @@
+.content{
+padding:5px;
+height: 313px;
+width: 300px;
+border: solid 1px;
+overflow-y: scroll;
+}
